@@ -1,0 +1,15 @@
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\bin\Debug\net6.0\C#ConsolePractices.exe
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\bin\Debug\net6.0\C#ConsolePractices.deps.json
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\bin\Debug\net6.0\C#ConsolePractices.runtimeconfig.json
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\bin\Debug\net6.0\C#ConsolePractices.dll
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\bin\Debug\net6.0\C#ConsolePractices.pdb
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.csproj.AssemblyReference.cache
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.AssemblyInfoInputs.cache
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.AssemblyInfo.cs
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.csproj.CoreCompileInputs.cache
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.dll
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\refint\C#ConsolePractices.dll
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.pdb
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\C#ConsolePractices.genruntimeconfig.cache
+C:\Users\Tron-PC\Desktop\C#ConsolePractices\obj\Debug\net6.0\ref\C#ConsolePractices.dll

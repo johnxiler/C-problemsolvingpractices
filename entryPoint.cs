@@ -4,13 +4,18 @@ to run: Type
 dotnet run entryPoint.cs */
 namespace entryPoint
 {
-  public class systemRunner{
-  public static void Main(string[] args){
-    exerciseOne.greetMe.greetNames(); //this will call the class greetMe and its atomic methods inside.
-    Console.WriteLine("\nThe Sum of Two numbers is equal to ");
-    exerciseTwo.sumOfTwo.sumGy(); //this will call the class sumOfTwo and its atomic methods inside.
+  public class systemRunner
+  {
+    public static void Main(string[] args)
+    {
+      exerciseOne.greetMe.greetNames(); //this will call the class greetMe and its atomic methods inside.
+      Console.WriteLine("\nThe Sum of Two numbers is equal to ");
+      exerciseTwo.sumOfTwo.sumGy(); //this will call the class sumOfTwo and its atomic methods inside.
+      Console.WriteLine("\nThe output is");
+      //exerciseThree.divideMe.divider(250 , 300);
+      exerciseThree.divideMe.divider();
+    }
   }
- }
 }
 
 /*

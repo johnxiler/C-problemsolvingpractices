@@ -3,16 +3,17 @@
  Expected Output :
 Hello: Alexandra Abramov 
 I used Write instead of WriteLine.*/
-using System;
+
 namespace exerciseOne
 {
   public class greetMe
-{
- public static void greetNames(){
-   Console.Write("Hello: ");
-   Console.Write("Rewlixdev");
- }
-}
+  {
+    public static void greetNames()
+    {
+      Console.Write("Hello: ");
+      Console.Write("Rewlixdev\n");
+    }
+  }
 }
 
 /*

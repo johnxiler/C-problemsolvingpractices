@@ -2,6 +2,7 @@ using System;
 /* i used the other exercise scripts to call their methods without using namespaces just their classes and methods.
 to run: Type 
 dotnet run entryPoint.cs */
+
 namespace entryPoint
 {
   public class systemRunner
@@ -14,6 +15,9 @@ namespace entryPoint
       Console.WriteLine("\nThe output is");
       //exerciseThree.divideMe.divider(250 , 300);
       exerciseThree.divideMe.divider();
+      // Call the testCalculator method from the testOne class
+      exerciseFour.testOne.testCalculator();
+
     }
   }
 }
